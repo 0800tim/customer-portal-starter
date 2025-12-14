@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aiva": {
+      "command": "npx",
+      "args": ["@aiva/mcp"],
+      "env": {
+        "AIVA_API_KEY": "${AIVA_API_KEY}"
+      }
+    }
+  }
+}
