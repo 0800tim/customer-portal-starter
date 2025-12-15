@@ -63,7 +63,7 @@ For AI development, configure your tool:
   "mcpServers": {
     "aiva": {
       "command": "npx",
-      "args": ["@aiva/mcp"],
+      "args": ["@getaiva/mcp"],
       "env": {
         "AIVA_API_KEY": "${AIVA_API_KEY}"
       }
@@ -180,7 +180,7 @@ Works with any Node.js host:
 
 ## Related
 
-- [@aiva/mcp](https://github.com/0800tim/aiva-mcp) - AIVA MCP server
+- [@getaiva/mcp](https://github.com/0800tim/aiva-mcp) - AIVA MCP server
 - [create-aiva-app](https://github.com/0800tim/create-aiva-app) - CLI scaffolding
 - [AppSpurt Prompts](https://appspurt.com/prompts) - AI prompt library
 

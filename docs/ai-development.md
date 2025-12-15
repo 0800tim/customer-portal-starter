@@ -11,7 +11,7 @@ The template includes `mcp.json` pre-configured for AIVA:
   "mcpServers": {
     "aiva": {
       "command": "npx",
-      "args": ["-y", "@aiva/mcp"],
+      "args": ["-y", "@getaiva/mcp"],
       "env": {
         "AIVA_API_KEY": "${AIVA_API_KEY}"
       }
