@@ -15,10 +15,10 @@ Production-ready customer portal for subscription businesses. Built with Next.js
 
 ## Quick Start
 
-### Option 1: Using create-aiva-app (Recommended)
+### Option 1: Using @getaiva/create-app (Recommended)
 
 ```bash
-npx create-aiva-app my-portal --template customer-portal
+npx @getaiva/create-app my-portal --template customer-portal
 cd my-portal
 cp .env.example .env.local
 # Add your AIVA_API_KEY
@@ -181,7 +181,7 @@ Works with any Node.js host:
 ## Related
 
 - [@getaiva/mcp](https://github.com/0800tim/aiva-mcp) - AIVA MCP server
-- [create-aiva-app](https://github.com/0800tim/create-aiva-app) - CLI scaffolding
+- [@getaiva/create-app](https://github.com/0800tim/create-aiva-app) - CLI scaffolding
 - [AppSpurt Prompts](https://appspurt.com/prompts) - AI prompt library
 
 ## License

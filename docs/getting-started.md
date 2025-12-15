@@ -20,7 +20,7 @@ cd my-portal
 Or use the CLI:
 
 ```bash
-npx create-aiva-app my-portal --template customer-portal
+npx @getaiva/create-app my-portal --template customer-portal
 ```
 
 ### 2. Install Dependencies
